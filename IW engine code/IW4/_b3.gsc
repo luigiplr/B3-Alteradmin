@@ -4,8 +4,7 @@
 
 /*
 Title: Modern Warfare 2 Big Brother Bot; New commands need this
-Notes:  Simplified all the loops (reduced to only one montioring function).
-Thx to [115]death for the Text structure code
+Notes:  
 Version: 1.7
 Author(s): Luigi
 */
