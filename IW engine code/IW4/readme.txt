@@ -1,0 +1,1 @@
+make a folder in your MW2server/m2demo folder named "scripts" then put _b3.gsc in it.
