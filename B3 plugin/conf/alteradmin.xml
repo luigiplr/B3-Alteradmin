@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><configuration plugin="blackpulse">
+
+	<settings name="settings">
+		<set name="bansfile">@b3/extplugins/conf/bans.txt</set>		
+	</settings>
+	
+	<settings name="commands">
+	
+		<set name="rcon">80</set>
+		<set name="rank">40</set>
+		<set name="balance">20</set>
+		<set name="clientip-ip">40</set>
+        <set name="fastrestart-re">60</set>	
+		<set name="iplookup">40</set>
+		<set name="ipalias">40</set>	
+		<set name="pm">10</set>
+		<set name="toadmins-toadmin">0</set>
+		<set name="blackban-bb">40</set>
+		<set name="fps">40</set>
+		<set name="prestige">40</set>
+		<set name="bkick-bk">40</set>
+		<set name="ragequit-rage">0</set>
+		<set name="lock">40</set>
+		<set name="unlock">40</set>
+		<set name="space">40</set>
+		<set name="freeze">40</set>
+		
+
+	</settings>
+	
+	
+	<!-- Below all for testing a new update -->
+	
+	<settings name="votekick">
+	
+		<set name="min_level_kick">2</set>
+		
+		<set name="tempban_minvotes">3</set>
+		<set name="tempban_interval">3</set>
+		<set name="tempban_percent">75</set>
+		
+				
+		<set name="min_level_vote">2</set>
+		<set name="vote_times">3</set>
+		<set name="vote_interval">3</set>
+		
+	</settings>	
+	
+	
+</configuration>
